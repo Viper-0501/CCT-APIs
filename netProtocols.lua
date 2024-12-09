@@ -1,4 +1,6 @@
+---@diagnostic disable-next-line: different-requires
 local util = require("util")
+---@diagnostic disable-next-line: different-requires
 local dev = require("dev")
 local self = {}
 
